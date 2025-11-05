@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Titlu</title>
+</head>
+</body>
+<p>Nume: Smintina</p>
+<p>Prenume: David-Gabriel</p>
+<p>E-mail:<a href="smintina.ma.david@student.utcluj.ro">smintina.ma.david@student.utcluj.ro</a></p>
+<img src="images/img.jpg" alt="descriere"
+widtn="200" height="200">
+<h1>Asteptari legate de ed</h1>
+<p>......</p>
+<h1>Discipline</h1>
+<table>
+<thead>
+<tr>
+<th>Discipline</th>
+<th>An</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>info aplicata</td>
+<td>I<td>
+<td><a href="">Click aici</a></td>
+</tr>
+
+<p>Hobby-uri</p>
+<ul>
+<li>
+</ul>
+
+
+</tbody>
+</table>
